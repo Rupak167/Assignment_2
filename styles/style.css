@@ -204,6 +204,10 @@ main{
     grid-auto-flow: column;
     grid-column-gap: 20px;
 }
+.fa-brands{
+    text-decoration: none;
+    color: #ffffff;
+}
 /*-------------------- 
     Media queries 
     for phone
