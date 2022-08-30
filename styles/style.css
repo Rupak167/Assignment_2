@@ -148,6 +148,10 @@ main{
     padding-top: 0;
     padding-bottom: 0;
 }
+.fa-regular{
+    margin-left: 20px;
+    margin-right: 10px;
+}
 
 /*------------------------------------------
               View all Button
